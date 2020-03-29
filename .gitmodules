@@ -1,0 +1,9 @@
+[submodule "openwrt-udpspeeder"]
+	path = openwrt-udpspeeder
+	url = https://github.com/bao3/openwrt-udpspeeder.git
+[submodule "openwrt-udp2raw"]
+	path = openwrt-udp2raw
+	url = https://github.com/bao3/openwrt-udp2raw.git
+[submodule "luci-udptools"]
+	path = luci-udptools
+	url = https://github.com/bao3/luci-udptools.git
